@@ -15,8 +15,11 @@ Over the 8-week journey, I explored the fundamentals and advancements in Large L
 
 
 ├── [plan_of_action.pdf](./plan_of_action.pdf)              # Detailed weekly plan and resources used
+
 ├── [SOS Midterm Report.pdf](./SOS%20Midterm%20Report.pdf)         # Learnings and progress till mid-term
+
 ├── [SOS Endterm Report.pdf](./SOS%20Endterm%20Report.pdf)         # Final comprehensive report of the entire journey
+
 ├── [transformers presentation.pdf](./transformers%20presentation.pdf)  # Slides explaining self-attention and transformers
 
 ## Video Presentation 
